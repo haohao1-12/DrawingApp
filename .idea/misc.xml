@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.22871376811594202" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.1" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/large.xml" value="0.114" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/medium.xml" value="0.114" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/pallet_normal.xml" value="0.1" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/pallet_pressed.xml" value="0.1" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/samll.xml" value="0.134" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/drawable/small.xml" value="0.1" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/File/AndroidStudioProjects/DrawingApp/app/src/main/res/layout/dialog_brush_size.xml" value="0.14537037037037037" />
       </map>
     </option>
   </component>
